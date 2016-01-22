@@ -1,0 +1,2 @@
+MainPackage=D:\Dropbox\Dropbox\Documents\Visual Studio 2015\Projects\PivotText\PivotText\bin\x86\Release\PivotText_1.1.1.0_x86.appx
+SymbolPackage=D:\Dropbox\Dropbox\Documents\Visual Studio 2015\Projects\PivotText\PivotText\AppPackages\PivotText_1.1.1.0\PivotText_1.1.1.0_x86.appxsym

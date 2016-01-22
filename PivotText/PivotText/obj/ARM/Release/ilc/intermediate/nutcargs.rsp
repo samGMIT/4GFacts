@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "D:\Dropbox\Dropbox\Documents\Visual Studio 2015\Projects\PivotText\PivotText\obj\ARM\Release\ilc\intermediate\ILTransformed\PivotText.metadata"
+/gvmAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "D:\Dropbox\Dropbox\Documents\Visual Studio 2015\Projects\PivotText\PivotText\obj\ARM\Release\ilc\intermediate\ILTransformed\PivotText.csv"
+/sharedGenericsMode StandardHeuristics
+/in "D:\Dropbox\Dropbox\Documents\Visual Studio 2015\Projects\PivotText\PivotText\obj\ARM\Release\ilc\intermediate\ILTransformed\PivotText.ilexe"
+/out "D:\Dropbox\Dropbox\Documents\Visual Studio 2015\Projects\PivotText\PivotText\obj\ARM\Release\ilc\intermediate\MDIL\PivotText.mdilexe"

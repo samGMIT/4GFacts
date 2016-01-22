@@ -1,0 +1,2 @@
+MainPackage=D:\Dropbox\Dropbox\Documents\Visual Studio 2015\Projects\PivotText\PivotText\bin\ARM\Release\PivotText_1.1.1.0_ARM.appx
+SymbolPackage=D:\Dropbox\Dropbox\Documents\Visual Studio 2015\Projects\PivotText\PivotText\AppPackages\PivotText_1.1.1.0\PivotText_1.1.1.0_ARM.appxsym
